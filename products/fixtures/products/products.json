@@ -1,0 +1,26 @@
+[
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "name": "Laptop",
+            "price": 50000
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 2,
+        "fields": {
+            "name": "Mouse",
+            "price": 1000
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 3,
+        "fields": {
+            "name": "Keyboard",
+            "price": 2000
+        }
+    }
+]
